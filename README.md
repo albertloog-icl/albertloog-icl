@@ -4,6 +4,8 @@ MSc Stats @ Imperial
 Prev @ Bocconi
 
 Previously worked @
+- OpenAI funder
+- Anthropic funder
 - Revolut
 - Wise
 
