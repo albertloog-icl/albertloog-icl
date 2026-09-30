@@ -1,13 +1,13 @@
 # Intro
 MSc Stats @ Imperial
 
-Estonian, prev @ Bocconi
+Prev @ Bokkoni
 
 Previously worked @
 - Revolut
 - Wise
 
-[LI](https://linkedin.com/albertloog)
+[audshaishuda](https://eesti.ee)
 <!--
 **albertloog1026/albertloog1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
